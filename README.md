@@ -4,7 +4,7 @@
 
 ## Projeto
 
-- É basicamente uma projeto que utiliza o efeito parallax para decorar uma imagens junto a um poema 
+- É basicamente um projeto que utiliza o efeito parallax para decorar imagens junto com um poema.
 
 ## Link de acesso
 
